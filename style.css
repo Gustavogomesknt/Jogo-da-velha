@@ -156,6 +156,8 @@ button:active {
         grid-template-columns: repeat(3, 80px); 
         grid-template-rows: repeat(3, 80px);
         gap: 3px;
+        justify-content: center;
+        align-items: center;
     }
 
     .cell {
